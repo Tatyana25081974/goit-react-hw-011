@@ -1,6 +1,11 @@
 .friendList {
     list-style: none;
     padding: 0;
-    margin: 20px auto;
-    width: 300px;
+    margin: 20px ;
+flex-wrap: nowrap;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: flex-start;
+    
 }
